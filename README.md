@@ -1,1 +1,3 @@
-# Glaxy-game---with-kivy-december-2023
+# Glaxy App
+
+## Game for fun
